@@ -1,5 +1,29 @@
 <div align="center">
 
+  <!-- 3D DYNAMIC WAVING BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,22,14,6,0&height=220&section=header&text=OpenGym%20Tracker&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%A5%8A%20Privacy-First%20Workout%2C%20Weightlifting%20%26%20Fitness%20Tracker&descAlignY=62&descAlign=50" width="100%" alt="OpenGym Tracker 3D Banner" />
+
+  <!-- 3D ANIMATED PROJECT ICON -->
+  <a href="https://github.com/OPSHARP/openGym">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Boxing%20Glove.png" width="95" height="95" alt="OpenGym Tracker 3D Icon" />
+  </a>
+
+  <h1>OpenGym Tracker</h1>
+  <p><b>🥊 Privacy-First Workout, Weightlifting & Fitness Tracker</b></p>
+
+  <!-- 3D TECH STACK CARDS -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=flutter,dart,apple,android,sqlite&theme=dark" alt="3D Tech Stack" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/readme/hero-dark.png">
@@ -375,3 +399,9 @@ you keep the copyright in your work, openGym may use and relicense it (so the ap
 App Store and Google Play long term), and every version released under the AGPL stays AGPL.
 
 Full third-party notices, including the body-diagram geometry, are in [NOTICE.md](NOTICE.md).
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,22,14,6,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
+</div>
