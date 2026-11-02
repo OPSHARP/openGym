@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,22,14,6,0&height=220&section=header&text=OpenGym%20Tracker&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%A5%8A%20Privacy-First%20Workout%2C%20Weightlifting%20%26%20Fitness%20Tracker&descAlignY=62&descAlign=50" width="100%" alt="OpenGym Tracker 3D Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,22,14,6,0&height=220&section=header&text=OpenGym%20Tracker&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%A5%8A%20Privacy-First%20Workout%2C%20Weightlifting%20%E2%80%A2%20Fitness%20Tracker&descAlignY=62&descAlign=50" width="100%" alt="OpenGym Tracker 3D Banner" />
 
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/openGym">
